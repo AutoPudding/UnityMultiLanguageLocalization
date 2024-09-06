@@ -8,8 +8,8 @@ using UnityEngine.Events;
 public enum Language
 {
     Default,
-    English_US,              // English_US
-    English_UK,              // English_UK
+    English_US,           // English_US
+    English_UK,           // English_UK
     Français,             // French
     Deutsch,              // German
     Español,              // Spanish
