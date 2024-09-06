@@ -46,6 +46,12 @@ public enum Language
     العربية,              // Arabic
     עברית,                // Hebrew
     فارسی,                // Persian (Farsi)
+    မြန်မာစာ,               // Burmese
+    Swahili,              // Swahili
+    Afrikaans,            // Afrikaans
+    Amharic,              // Amharic
+    Hausa,                // Hausa
+    Other
 }
 
 
